@@ -1,112 +1,368 @@
 {
+  "minimize": {
+    "message": "Minimize"
+  },
+  "maximize": {
+    "message": "Maximize"
+  },
+  "close": {
+    "message": "Close"
+  },
   "loading": {
-    "message": "加载中"
+    "message": "loading"
   },
   "aboutWrittenBy": {
-    "message": "作者 <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
+    "message": "Written by <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
   },
   "aboutHomePage": {
-    "message": "首页"
+    "message": "Home Page"
   },
   "aboutSupport": {
-    "message": "支持"
+    "message": "Support"
   },
   "aboutLicense": {
-    "message": "Caret is available under a GPL license, which means that the <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>source code</a> is freely available for you to use and modify as you see fit. If you find Caret useful, consider donating to the Free Software Foundation's <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fund to End Software Patents</a>.汉化:nolanzhou"
+    "message": "Caret is available under a GPL license, which means that the <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>source code</a> is freely available for you to use and modify as you see fit. If you find Caret useful, consider donating to the Free Software Foundation's <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fund to End Software Patents</a>."
   },
-  "menuFile": { "message": "文件" },
-  "menuNewFile": { "message": "新建" },
-  "menuOpenFile": { "message": "打开" },
-  "menuSave": { "message": "保存" },
-  "menuSaveAs": { "message": "另存为.." },
-  "menuRevert": { "message": "回复" },
-  "menuClose": { "message": "关闭" },
-  "menuPrint": { "message": "打印" },
-  "menuExit": { "message": "退出" },
-
-  "menuEdit": { "message": "编辑" },
-  "menuUndo": { "message": "撤销" },
-  "menuRedo": { "message": "重做" },
-  "menuInsertFromFile": { "message": "从文件插入.." },
-  "menuSelectWord": { "message": "选择单词" },
-  "menuSelectLine": { "message": "选择行" },
-  "menuSelectP": { "message": "选择段落" },
-  "menuSelectToMatch": { "message": "选择区域{...}" },
-  "menuWrapToPrint": { "message": "打印区域换行" },
-  "menuFind": { "message": "查找" },
-  "menuFindReplace": { "message": "查找/替换" },
-  "menuFindNext": { "message": "查找下一个" },
-  "menuToggleComment": { "message": "注释切换" },
-  "menuBlockComment": { "message": "区域注释切换" },
-  "menuTabsToSpaces": { "message": "Tab转空格" },
-  "menuSpacesToTabs": { "message": "空格转Tab" },
-  "menuSetNewline": { "message": "设置行模式" },
-  "menuTrimWhitespace": { "message": "移除行末空格" },
-  "menuJoinLines": { "message": "连接多行" },
-  "menuSortLines": { "message": "排序多行" },
-  "menuSplitLine": { "message": "分割行" },
-  "menuKillLine": { "message": "删除行" },
-  "menuToUppercase": { "message": "所选内容转为大写" },
-  "menuToLowercase": { "message": "所选内容转为小写" },
-  "menuMoveLinesUp": { "message": "上升多行" },
-  "menuMoveLinesDown": { "message": "下降多行" },
-
-  "menuTools": { "message": "工具" },
-  "menuGoToAnything": { "message": "跳转文件.." },
-  "menuGoToLine": { "message": "跳至某行.." },
-  "menuGoToSearch": { "message": "搜索文件并跳转.." },
-  "menuGoToRef": { "message": "搜索内容并跳转.." },
-  "menuCommandPalette": { "message": "命令面板" },
-  "menuToggleMacro": { "message": "开始/结束宏录制" },
-  "menuReplayMacro": { "message": "使用宏" },
-  "menuWordCount": { "message": "内容统计" },
-
-  "menuProject": { "message": "项目" },
-  "menuAddDir": { "message": "添加文件夹" },
-  "menuRemoveAllDirs": { "message": "移除所有文件夹" },
-  "menuRefreshDir": { "message": "刷新" },
-  "menuSaveProject": { "message": "保存项目文件" },
-  "menuEditProject": { "message": "编辑自定义项目" },
-  "menuOpenProject": { "message": "打开项目文件" },
-  "menuClearProject": { "message": "移除项目" },
-
-  "menuSettings": { "message": "设置" },
-  "menuUserPrefs": { "message": "用户偏好" },
-  "menuKeyboard": { "message": "快捷键" },
-  "menuMenus": { "message": "菜单" },
-  "menuAPI": { "message": "外部命令" },
-  "menuDefaults": { "message": "默认配置" },
-  "menuUserPrefsDefault": { "message": "用户偏好 (默认)" },
-  "menuKeyboardDefault": { "message": "快捷键 (默认)" },
-  "menuMenusDefault": { "message": "菜单 (默认)" },
-  "menuReset": { "message": "重置" },
-  "menuResetUserPrefs": { "message": "重置用户配置" },
-  "menuResetKeyboard": { "message": "重置快捷键" },
-  "menuResetMenus": { "message": "重置菜单" },
-  "menuEmergencyReset": { "message": "复位" },
-  "menuHelp": { "message": "帮助" },
-  "menuCheckForUpdates": { "message": "检查更新" },
-  "menuAboutCaret": { "message": "关于Caret" },
-
-  "dialogModifiedBackground": { "message": "文件已发生修改，是否重新载入?" },
-  "dialogModifiedUnsaved": { "message": "$1 已被修改，是否确认保存?" },
-  "dialogCancel": { "message": "取消" },
-  "dialogOK": { "message": "确定" },
-  "dialogReload": { "message": "刷新" },
-  "dialogSave": { "message": "保存" },
-  "dialogDiscard": { "message": "丢弃" },
-  "dialogUnsaved": { "message": "$1未保存." },
-
-  "projectNoCurrentProject": { "message": "目前没有项目打开。" },
-
-  "paletteExecuting": { "message": "正在执行 $1..." },
-
-  "fileLoaded": { "message": "正在读取 $1, $2 bytes" },
-  "fileAutosaving": { "message": "所有文件正在保存中.." },
-
-  "editorWordCount": { "message": "$1 characters, $2 words, $3 lines" },
-
-  "recordingMacro": { "message": "宏录制中.." },
-  "setSyntax": { "message": "设置语言: $1" },
-  "setTheme": { "message": "设置主题: $1" }
+  "menuFile": {
+    "message": "File"
+  },
+  "menuNewFile": {
+    "message": "New File"
+  },
+  "menuOpenFile": {
+    "message": "Open File"
+  },
+  "menuSave": {
+    "message": "Save File"
+  },
+  "menuSaveAs": {
+    "message": "Save File As..."
+  },
+  "menuSaveAll": {
+    "message": "Save All Files"
+  },
+  "menuRevert": {
+    "message": "Revert"
+  },
+  "menuClose": {
+    "message": "Close File"
+  },
+  "menuPrint": {
+    "message": "Print"
+  },
+  "menuExit": {
+    "message": "Exit"
+  },
+  "menuEdit": {
+    "message": "Edit"
+  },
+  "menuUndo": {
+    "message": "Undo"
+  },
+  "menuRedo": {
+    "message": "Redo"
+  },
+  "menuInsertFromFile": {
+    "message": "Insert From File"
+  },
+  "menuSelectWord": {
+    "message": "Select Word"
+  },
+  "menuSelectLine": {
+    "message": "Select Line"
+  },
+  "menuSelectP": {
+    "message": "Select Paragraph"
+  },
+  "menuSelectToMatch": {
+    "message": "Select to Matching"
+  },
+  "menuWrapToPrint": {
+    "message": "Wrap to Print Margin"
+  },
+  "menuFind": {
+    "message": "Find"
+  },
+  "menuFindReplace": {
+    "message": "Find/Replace"
+  },
+  "menuFindNext": {
+    "message": "Find Next"
+  },
+  "menuSearchProject": {
+    "message": "Search All Files"
+  },
+  "menuToggleComment": {
+    "message": "Toggle Comment"
+  },
+  "menuBlockComment": {
+    "message": "Toggle Block Comment"
+  },
+  "menuTabsToSpaces": {
+    "message": "Convert Tabs to Spaces"
+  },
+  "menuSpacesToTabs": {
+    "message": "Convert Spaces to Tabs"
+  },
+  "menuSetNewline": {
+    "message": "Set Newline Mode"
+  },
+  "menuTrimWhitespace": {
+    "message": "Trim Trailing Whitespace"
+  },
+  "menuJoinLines": {
+    "message": "Join Lines"
+  },
+  "menuSortLines": {
+    "message": "Sort Lines"
+  },
+  "menuSplitLine": {
+    "message": "Split Line"
+  },
+  "menuKillLine": {
+    "message": "Kill Line"
+  },
+  "menuToUppercase": {
+    "message": "To Uppercase"
+  },
+  "menuToLowercase": {
+    "message": "To Lowercase"
+  },
+  "menuMoveLinesUp": {
+    "message": "Move Lines Up"
+  },
+  "menuMoveLinesDown": {
+    "message": "Move Lines Down"
+  },
+  "menuTools": {
+    "message": "Tools"
+  },
+  "menuGoToAnything": {
+    "message": "Go To..."
+  },
+  "menuGoToLine": {
+    "message": "Go to Line"
+  },
+  "menuGoToSearch": {
+    "message": "Go to Search"
+  },
+  "menuGoToRef": {
+    "message": "Go to Reference"
+  },
+  "menuCommandPalette": {
+    "message": "Open Command Palette"
+  },
+  "menuToggleMacro": {
+    "message": "Toggle Macro Recording"
+  },
+  "menuReplayMacro": {
+    "message": "Replay Macro"
+  },
+  "menuWordCount": {
+    "message": "Word Count"
+  },
+  "menuProject": {
+    "message": "Project"
+  },
+  "menuAddDir": {
+    "message": "Add Directory"
+  },
+  "menuRemoveAllDirs": {
+    "message": "Remove All Directories"
+  },
+  "menuRefreshDir": {
+    "message": "Refresh Directories"
+  },
+  "menuSaveProject": {
+    "message": "Save Project File"
+  },
+  "menuEditProject": {
+    "message": "Edit Current Project"
+  },
+  "menuOpenProject": {
+    "message": "Open Project File"
+  },
+  "menuClearProject": {
+    "message": "Clear Project"
+  },
+  "menuSettings": {
+    "message": "Settings"
+  },
+  "menuUserPrefs": {
+    "message": "User Preferences"
+  },
+  "menuKeyboard": {
+    "message": "Keyboard"
+  },
+  "menuMenus": {
+    "message": "Menus"
+  },
+  "menuAPI": {
+    "message": "External Commands"
+  },
+  "menuSequences": {
+    "message": "Command Sequences"
+  },
+  "menuDefaults": {
+    "message": "View Defaults"
+  },
+  "menuUserPrefsDefault": {
+    "message": "User Preferences (Defaults)"
+  },
+  "menuKeyboardDefault": {
+    "message": "Keyboard (Defaults)"
+  },
+  "menuMenusDefault": {
+    "message": "Menus (Defaults)"
+  },
+  "menuSequencesDefault": {
+    "message": "Command Sequences (Defaults)"
+  },
+  "menuReset": {
+    "message": "Reset"
+  },
+  "menuResetUserPrefs": {
+    "message": "Reset User Preferences"
+  },
+  "menuResetKeyboard": {
+    "message": "Reset Keyboard"
+  },
+  "menuResetMenus": {
+    "message": "Reset Menus"
+  },
+  "menuResetSequences": {
+    "message": "Reset Command Sequences"
+  },
+  "menuEmergencyReset": {
+    "message": "Emergency Reset"
+  },
+  "menuHelp": {
+    "message": "Help"
+  },
+  "menuCheckForUpdates": {
+    "message": "Check for Updates"
+  },
+  "menuAboutCaret": {
+    "message": "About Caret"
+  },
+  "dialogModifiedBackground": {
+    "message": "This file has been modified since the last time it was saved. Would you like to reload?"
+  },
+  "dialogModifiedUnsaved": {
+    "message": "$1 has been modified.\nDo you want to save changes?"
+  },
+  "dialogCancel": {
+    "message": "Cancel"
+  },
+  "dialogOK": {
+    "message": "OK"
+  },
+  "dialogReload": {
+    "message": "Reload"
+  },
+  "dialogSave": {
+    "message": "Save"
+  },
+  "dialogDiscard": {
+    "message": "Discard"
+  },
+  "dialogUnsaved": {
+    "message": "$1 has unsaved work."
+  },
+  "projectNoCurrentProject": {
+    "message": "No project currently open."
+  },
+  "projectRemoveDirectory": {
+    "message": "Remove from project"
+  },
+  "paletteExecuting": {
+    "message": "Executing $1..."
+  },
+  "fileLoaded": {
+    "message": "Loaded $1, $2 bytes"
+  },
+  "fileAutosaving": {
+    "message": "Executing autosave for all tabs..."
+  },
+  "editorWordCount": {
+    "message": "$1 characters, $2 words, $3 lines"
+  },
+  "recordingMacro": {
+    "message": "Recording macro..."
+  },
+  "setSyntax": {
+    "message": "Set Syntax: $1"
+  },
+  "setTheme": {
+    "message": "Set Theme: $1"
+  },
+  "selectSyntax": {
+    "message": "Select syntax"
+  },
+  "selectTheme": {
+    "message": "Select theme"
+  },
+  "notificationUpdateAvailable": {
+    "message": "Caret: Update available"
+  },
+  "notificationUpdateDetail": {
+    "message": "An update to version $1 is available. Would you like to update and restart now?"
+  },
+  "notificationNoUpdateTitle": {
+    "message": "No updates available"
+  },
+  "notificationNoUpdateDetail": {
+    "message": "There aren't any updates for Caret at this time."
+  },
+  "notificationUpdateOK": {
+    "message": "Yes, update and restart"
+  },
+  "notificationUpdateWait": {
+    "message": "No thanks"
+  },
+  "notificationUpdated": {
+    "message": "Caret has been updated"
+  },
+  "notificationUpdatedDetail": {
+    "message": "Now at version $1. Click to see the changelog."
+  },
+  "searchDisplayQuery": {
+    "message": "Searching for: $1\n"
+  },
+  "searchTabName": {
+    "message": "Results: $1"
+  },
+  "searchNoDirectories": {
+    "message": "\nNo files scanned. You'll need to add a directory to your project first."
+  },
+  "searchSummary": {
+    "message": "\n\n$1 matches found. $2 files scanned."
+  },
+  "searchCancelled": {
+    "message": "\nSearch was cancelled. You can change the maximum number of search results allowed in User Preferences."
+  },
+  "searchMatchCase": {
+    "message": "Match Case"
+  },
+  "searchFindAll": {
+    "message": "Find All"
+  },
+  "errorMissingFont": {
+    "message": "The font you've selected isn't available to Caret, which can only use fonts installed on your system. A default font will be used instead."
+  },
+  "errorProportionalFont": {
+    "message": "The custom font you've selected may cause problems with Caret's editing component, which only supports monospaced fonts (where the letters are all the same width). If you experience cursor issues, please reset the fontFamily setting in your user preferences."
+  },
+  "tabClose": {
+    "message": "Close"
+  },
+  "tabCloseRight": {
+    "message": "Close tabs to the right"
+  },
+  "tabCopyPath": {
+    "message": "Copy file path"
+  },
+  "tabRevealInSideBar": {
+    "message": "Reveal in side bar"
+  }
 }
