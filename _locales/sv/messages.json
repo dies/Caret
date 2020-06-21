@@ -1,368 +1,368 @@
 {
   "minimize": {
-    "message": "Minimize"
+    "message": "Minimera"
   },
   "maximize": {
-    "message": "Maximize"
+    "message": "Maximera"
   },
   "close": {
-    "message": "Close"
+    "message": "Stäng"
   },
   "loading": {
-    "message": "loading"
+    "message": "laddar"
   },
   "aboutWrittenBy": {
-    "message": "Written by <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
+    "message": "Skriven av <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
   },
   "aboutHomePage": {
-    "message": "Home Page"
+    "message": "Hemsida"
   },
   "aboutSupport": {
     "message": "Support"
   },
   "aboutLicense": {
-    "message": "Caret is available under a GPL license, which means that the <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>source code</a> is freely available for you to use and modify as you see fit. If you find Caret useful, consider donating to the Free Software Foundation's <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fund to End Software Patents</a>."
+    "message": "Caret är tillgängligt under en GPL-licens vilket betyder att <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>källkoden</a> är fritt tillgänglig för dig att använda och modifiera för egna önskemål. Om du finner Caret användbart så överväg då en donation till The Free Software Foundations <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>insamling för att motverka mjukvarupatent</a>."
   },
   "menuFile": {
-    "message": "File"
+    "message": "Fil"
   },
   "menuNewFile": {
-    "message": "New File"
+    "message": "Ny fil"
   },
   "menuOpenFile": {
-    "message": "Open File"
+    "message": "Öppna fil"
   },
   "menuSave": {
-    "message": "Save File"
+    "message": "Spara fil"
   },
   "menuSaveAs": {
-    "message": "Save File As..."
+    "message": "Spara fil som..."
   },
   "menuSaveAll": {
-    "message": "Save All Files"
+    "message": "Spara alla filer"
   },
   "menuRevert": {
-    "message": "Revert"
+    "message": "Återgå"
   },
   "menuClose": {
-    "message": "Close File"
+    "message": "Stäng fil"
   },
   "menuPrint": {
-    "message": "Print"
+    "message": "Skriv ut"
   },
   "menuExit": {
-    "message": "Exit"
+    "message": "Avsluta"
   },
   "menuEdit": {
-    "message": "Edit"
+    "message": "Redigera"
   },
   "menuUndo": {
-    "message": "Undo"
+    "message": "Ångra"
   },
   "menuRedo": {
-    "message": "Redo"
+    "message": "Gör om"
   },
   "menuInsertFromFile": {
-    "message": "Insert From File"
+    "message": "Infoga från fil"
   },
   "menuSelectWord": {
-    "message": "Select Word"
+    "message": "Markera ord"
   },
   "menuSelectLine": {
-    "message": "Select Line"
+    "message": "Markera rad"
   },
   "menuSelectP": {
-    "message": "Select Paragraph"
+    "message": "Markera stycke"
   },
   "menuSelectToMatch": {
-    "message": "Select to Matching"
+    "message": "Markera till matchande"
   },
   "menuWrapToPrint": {
-    "message": "Wrap to Print Margin"
+    "message": "Sammanfoga till marginal"
   },
   "menuFind": {
-    "message": "Find"
+    "message": "Sök"
   },
   "menuFindReplace": {
-    "message": "Find/Replace"
+    "message": "Sök/Ersätt"
   },
   "menuFindNext": {
-    "message": "Find Next"
+    "message": "Sök nästa"
   },
   "menuSearchProject": {
-    "message": "Search All Files"
+    "message": "Sök i filer"
   },
   "menuToggleComment": {
-    "message": "Toggle Comment"
+    "message": "Växla kommentar"
   },
   "menuBlockComment": {
-    "message": "Toggle Block Comment"
+    "message": "Växla kommentarsblock"
   },
   "menuTabsToSpaces": {
-    "message": "Convert Tabs to Spaces"
+    "message": "Omvandla tabbar till vittecken"
   },
   "menuSpacesToTabs": {
-    "message": "Convert Spaces to Tabs"
+    "message": "Omvandla vittecken till tabbar"
   },
   "menuSetNewline": {
-    "message": "Set Newline Mode"
+    "message": "Välj typ av radavslutning"
   },
   "menuTrimWhitespace": {
-    "message": "Trim Trailing Whitespace"
+    "message": "Radera vittecken före ny rad"
   },
   "menuJoinLines": {
-    "message": "Join Lines"
+    "message": "Kombinera rader"
   },
   "menuSortLines": {
-    "message": "Sort Lines"
+    "message": "Sortera rader"
   },
   "menuSplitLine": {
-    "message": "Split Line"
+    "message": "Dela rad"
   },
   "menuKillLine": {
-    "message": "Kill Line"
+    "message": "Radera rad"
   },
   "menuToUppercase": {
-    "message": "To Uppercase"
+    "message": "Till stora tecken"
   },
   "menuToLowercase": {
-    "message": "To Lowercase"
+    "message": "Till små tecken"
   },
   "menuMoveLinesUp": {
-    "message": "Move Lines Up"
+    "message": "Flytta upp rader"
   },
   "menuMoveLinesDown": {
-    "message": "Move Lines Down"
+    "message": "Flytta ner rader"
   },
   "menuTools": {
-    "message": "Tools"
+    "message": "Verktyg"
   },
   "menuGoToAnything": {
-    "message": "Go To..."
+    "message": "Gå till..."
   },
   "menuGoToLine": {
-    "message": "Go to Line"
+    "message": "Gå till rad"
   },
   "menuGoToSearch": {
-    "message": "Go to Search"
+    "message": "Gå till sökt"
   },
   "menuGoToRef": {
-    "message": "Go to Reference"
+    "message": "Gå till referens"
   },
   "menuCommandPalette": {
-    "message": "Open Command Palette"
+    "message": "Öppna kommandopalett"
   },
   "menuToggleMacro": {
-    "message": "Toggle Macro Recording"
+    "message": "Växla makroinspelning"
   },
   "menuReplayMacro": {
-    "message": "Replay Macro"
+    "message": "Kör makro igen"
   },
   "menuWordCount": {
-    "message": "Word Count"
+    "message": "Ordantal"
   },
   "menuProject": {
-    "message": "Project"
+    "message": "Projekt"
   },
   "menuAddDir": {
-    "message": "Add Directory"
+    "message": "Lägg till katalog"
   },
   "menuRemoveAllDirs": {
-    "message": "Remove All Directories"
+    "message": "Avlägsna alla kataloger"
   },
   "menuRefreshDir": {
-    "message": "Refresh Directories"
+    "message": "Uppdatera kataloger"
   },
   "menuSaveProject": {
-    "message": "Save Project File"
+    "message": "Spara projektfil"
   },
   "menuEditProject": {
-    "message": "Edit Current Project"
+    "message": "Ändra aktuellt projekt"
   },
   "menuOpenProject": {
-    "message": "Open Project File"
+    "message": "Öppna projektfil"
   },
   "menuClearProject": {
-    "message": "Clear Project"
+    "message": "Rensa projekt"
   },
   "menuSettings": {
-    "message": "Settings"
+    "message": "Inställningar"
   },
   "menuUserPrefs": {
-    "message": "User Preferences"
+    "message": "Användarval"
   },
   "menuKeyboard": {
-    "message": "Keyboard"
+    "message": "Tangentbord"
   },
   "menuMenus": {
-    "message": "Menus"
+    "message": "Menyer"
   },
   "menuAPI": {
-    "message": "External Commands"
+    "message": "Utökade kommandon"
   },
   "menuSequences": {
-    "message": "Command Sequences"
+    "message": "Kommandosekvenser"
   },
   "menuDefaults": {
-    "message": "View Defaults"
+    "message": "Visa ursprungliga"
   },
   "menuUserPrefsDefault": {
-    "message": "User Preferences (Defaults)"
+    "message": "Användarval (förvalda)"
   },
   "menuKeyboardDefault": {
-    "message": "Keyboard (Defaults)"
+    "message": "Tangentbord (förvalda)"
   },
   "menuMenusDefault": {
-    "message": "Menus (Defaults)"
+    "message": "Menyer (förvalda)"
   },
   "menuSequencesDefault": {
-    "message": "Command Sequences (Defaults)"
+    "message": "Kommandosekvenser (förvalda)"
   },
   "menuReset": {
-    "message": "Reset"
+    "message": "Återställ"
   },
   "menuResetUserPrefs": {
-    "message": "Reset User Preferences"
+    "message": "Återställ användarval"
   },
   "menuResetKeyboard": {
-    "message": "Reset Keyboard"
+    "message": "Återställ tangentbord"
   },
   "menuResetMenus": {
-    "message": "Reset Menus"
+    "message": "Återställ menyer"
   },
   "menuResetSequences": {
-    "message": "Reset Command Sequences"
+    "message": "Återställ kommandosekvenser"
   },
   "menuEmergencyReset": {
-    "message": "Emergency Reset"
+    "message": "Nödåterställning"
   },
   "menuHelp": {
-    "message": "Help"
+    "message": "Hjälp"
   },
   "menuCheckForUpdates": {
-    "message": "Check for Updates"
+    "message": "Sök efter uppdateringar"
   },
   "menuAboutCaret": {
-    "message": "About Caret"
+    "message": "Om Caret"
   },
   "dialogModifiedBackground": {
-    "message": "This file has been modified since the last time it was saved. Would you like to reload?"
+    "message": "Denna fil har blivit ändrad efter att den senast sparades. Vill du ladda om denna fil?"
   },
   "dialogModifiedUnsaved": {
-    "message": "$1 has been modified.\nDo you want to save changes?"
+    "message": "$1 har blivit modifierad.\nVill du spara ändringarna?"
   },
   "dialogCancel": {
-    "message": "Cancel"
+    "message": "Avbryt"
   },
   "dialogOK": {
     "message": "OK"
   },
   "dialogReload": {
-    "message": "Reload"
+    "message": "Ladda om"
   },
   "dialogSave": {
-    "message": "Save"
+    "message": "Spara"
   },
   "dialogDiscard": {
-    "message": "Discard"
+    "message": "Släng"
   },
   "dialogUnsaved": {
-    "message": "$1 has unsaved work."
+    "message": "$1 har osparade ändringar."
   },
   "projectNoCurrentProject": {
-    "message": "No project currently open."
+    "message": "Inget projekt är för tillfället öppet."
   },
   "projectRemoveDirectory": {
-    "message": "Remove from project"
+    "message": "Ta bort från projekt"
   },
   "paletteExecuting": {
-    "message": "Executing $1..."
+    "message": "Kör $1..."
   },
   "fileLoaded": {
-    "message": "Loaded $1, $2 bytes"
+    "message": "Laddar $1, $2 bytes"
   },
   "fileAutosaving": {
-    "message": "Executing autosave for all tabs..."
+    "message": "Utför autosparning för alla flikar..."
   },
   "editorWordCount": {
-    "message": "$1 characters, $2 words, $3 lines"
+    "message": "$1 tecken, $2 ord, $3 rader"
   },
   "recordingMacro": {
-    "message": "Recording macro..."
+    "message": "Spelar in makro..."
   },
   "setSyntax": {
-    "message": "Set Syntax: $1"
+    "message": "Ange syntax: $1"
   },
   "setTheme": {
-    "message": "Set Theme: $1"
+    "message": "Ange tema: $1"
   },
   "selectSyntax": {
-    "message": "Select syntax"
+    "message": "Välj syntax"
   },
   "selectTheme": {
-    "message": "Select theme"
+    "message": "Välj tema"
   },
   "notificationUpdateAvailable": {
-    "message": "Caret: Update available"
+    "message": "Caret: Uppdatering tillgänglig"
   },
   "notificationUpdateDetail": {
-    "message": "An update to version $1 is available. Would you like to update and restart now?"
+    "message": "En uppdatering till version $1 är tillgänglig. Vill du starta om och uppdatera nu?"
   },
   "notificationNoUpdateTitle": {
-    "message": "No updates available"
+    "message": "Inga uppdateringar tillgängliga"
   },
   "notificationNoUpdateDetail": {
-    "message": "There aren't any updates for Caret at this time."
+    "message": "Det finns inga uppdateringar för Caret just nu."
   },
   "notificationUpdateOK": {
-    "message": "Yes, update and restart"
+    "message": "Ja, uppdatera och starta om"
   },
   "notificationUpdateWait": {
-    "message": "No thanks"
+    "message": "Nej tack"
   },
   "notificationUpdated": {
-    "message": "Caret has been updated"
+    "message": "Caret har uppdaterats."
   },
   "notificationUpdatedDetail": {
-    "message": "Now at version $1. Click to see the changelog."
+    "message": "Nu vid version $1, klicka för att se vad som är nytt."
   },
   "searchDisplayQuery": {
-    "message": "Searching for: $1\n"
+    "message": "Söker efter: $1\n"
   },
   "searchTabName": {
-    "message": "Results: $1"
+    "message": "Resultat: $1"
   },
   "searchNoDirectories": {
-    "message": "\nNo files scanned. You'll need to add a directory to your project first."
+    "message": "\nInga filer skannade. Du behöver först lägga till en mapp till ditt projekt."
   },
   "searchSummary": {
-    "message": "\n\n$1 matches found. $2 files scanned."
+    "message": "\n\n$1 matchningar hittades. $2 filer skannade."
   },
   "searchCancelled": {
-    "message": "\nSearch was cancelled. You can change the maximum number of search results allowed in User Preferences."
+    "message": "\nSökning avbruten. Du kan ändra högsta antalet sökresultat tillåtna i användarinställningarna."
   },
   "searchMatchCase": {
-    "message": "Match Case"
+    "message": "Skiftlägeskänslig"
   },
   "searchFindAll": {
-    "message": "Find All"
+    "message": "Hitta alla"
   },
   "errorMissingFont": {
-    "message": "The font you've selected isn't available to Caret, which can only use fonts installed on your system. A default font will be used instead."
+    "message": "Typsnittet du valde är inte tillgängligt för Caret, som bara kan använda typsnitt som är installerade på din enhet. Ett standardtypsnitt kommer användas istället."
   },
   "errorProportionalFont": {
-    "message": "The custom font you've selected may cause problems with Caret's editing component, which only supports monospaced fonts (where the letters are all the same width). If you experience cursor issues, please reset the fontFamily setting in your user preferences."
+    "message": "Det anpassade typsnittet du valt kan skapa problem med Carets redigeringskomponent, som bara har support för monospace-typsnitt (alla tecken har samma bredd). Om du upplever problem, vänligen återställ fontFamily-inställningen i användarinställningarna."
   },
   "tabClose": {
-    "message": "Close"
+    "message": "Stäng"
   },
   "tabCloseRight": {
-    "message": "Close tabs to the right"
+    "message": "Stäng flikar till höger"
   },
   "tabCopyPath": {
-    "message": "Copy file path"
+    "message": "Kopiera filsökväg"
   },
   "tabRevealInSideBar": {
-    "message": "Reveal in side bar"
+    "message": "Visa i sidofältet"
   }
 }
