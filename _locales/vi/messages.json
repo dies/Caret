@@ -9,226 +9,226 @@
     "message": "Close"
   },
   "loading": {
-    "message": "loading"
+    "message": "đang tải"
   },
   "aboutWrittenBy": {
-    "message": "Written by <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
+    "message": "Được viết bởi <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
   },
   "aboutHomePage": {
-    "message": "Home Page"
+    "message": "Trang chủ"
   },
   "aboutSupport": {
-    "message": "Support"
+    "message": "Hỗ trợ"
   },
   "aboutLicense": {
-    "message": "Caret is available under a GPL license, which means that the <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>source code</a> is freely available for you to use and modify as you see fit. If you find Caret useful, consider donating to the Free Software Foundation's <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fund to End Software Patents</a>."
+    "message": "Caret được phát hành theo giấy phép GPL, điều đó nghĩa là <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>mã nguồn</a> có thể được tự do sửa đổi cho phù hợp với bạn. Nếu bạn cảm thấy Caret hữu ích, hãy xem xét việc tặng Quỹ Free Software Foundation <a href=\"http://endsoftwarepatents.org/donate\" target=_blank> to End Software Patents</a>."
   },
   "menuFile": {
-    "message": "File"
+    "message": "Tệp"
   },
   "menuNewFile": {
-    "message": "New File"
+    "message": "Mới"
   },
   "menuOpenFile": {
-    "message": "Open File"
+    "message": "Mở"
   },
   "menuSave": {
-    "message": "Save File"
+    "message": "Lưu"
   },
   "menuSaveAs": {
-    "message": "Save File As..."
+    "message": "Lưu như..."
   },
   "menuSaveAll": {
     "message": "Save All Files"
   },
   "menuRevert": {
-    "message": "Revert"
+    "message": "Trở lại"
   },
   "menuClose": {
-    "message": "Close File"
+    "message": "Đóng tệp"
   },
   "menuPrint": {
-    "message": "Print"
+    "message": "In"
   },
   "menuExit": {
-    "message": "Exit"
+    "message": "Thoát Caret"
   },
   "menuEdit": {
-    "message": "Edit"
+    "message": "Chỉnh sửa"
   },
   "menuUndo": {
-    "message": "Undo"
+    "message": "Hoàn tác"
   },
   "menuRedo": {
-    "message": "Redo"
+    "message": "Làm lại"
   },
   "menuInsertFromFile": {
-    "message": "Insert From File"
+    "message": "Chèn từ tệp"
   },
   "menuSelectWord": {
-    "message": "Select Word"
+    "message": "Chọn từ"
   },
   "menuSelectLine": {
-    "message": "Select Line"
+    "message": "Chọn dòng"
   },
   "menuSelectP": {
-    "message": "Select Paragraph"
+    "message": "Chọn đoạn văn"
   },
   "menuSelectToMatch": {
-    "message": "Select to Matching"
+    "message": "Chọn để phù hợp với"
   },
   "menuWrapToPrint": {
-    "message": "Wrap to Print Margin"
+    "message": "Bó dòng"
   },
   "menuFind": {
-    "message": "Find"
+    "message": "Tìm"
   },
   "menuFindReplace": {
-    "message": "Find/Replace"
+    "message": "Tìm và Thay thế"
   },
   "menuFindNext": {
-    "message": "Find Next"
+    "message": "Tìm tiếp"
   },
   "menuSearchProject": {
     "message": "Search All Files"
   },
   "menuToggleComment": {
-    "message": "Toggle Comment"
+    "message": "Bật chú thích"
   },
   "menuBlockComment": {
-    "message": "Toggle Block Comment"
+    "message": "Bật khối chú thích"
   },
   "menuTabsToSpaces": {
-    "message": "Convert Tabs to Spaces"
+    "message": "Đổi Tab thành Space"
   },
   "menuSpacesToTabs": {
-    "message": "Convert Spaces to Tabs"
+    "message": "Đổi Space thành Tab"
   },
   "menuSetNewline": {
-    "message": "Set Newline Mode"
+    "message": "Thiết lập chế độ tự động xuống dòng"
   },
   "menuTrimWhitespace": {
     "message": "Trim Trailing Whitespace"
   },
   "menuJoinLines": {
-    "message": "Join Lines"
+    "message": "Hợp dòng"
   },
   "menuSortLines": {
-    "message": "Sort Lines"
+    "message": "Sắp xếp dòng"
   },
   "menuSplitLine": {
-    "message": "Split Line"
+    "message": "Tách dòng"
   },
   "menuKillLine": {
-    "message": "Kill Line"
+    "message": "Xóa dòng"
   },
   "menuToUppercase": {
-    "message": "To Uppercase"
+    "message": "Chuyển thành Chữ hoa"
   },
   "menuToLowercase": {
-    "message": "To Lowercase"
+    "message": "Chuyển thành Chữ thường"
   },
   "menuMoveLinesUp": {
-    "message": "Move Lines Up"
+    "message": "Chuyển dòng lên trên"
   },
   "menuMoveLinesDown": {
-    "message": "Move Lines Down"
+    "message": "Chuyển dòng xuống dưới"
   },
   "menuTools": {
-    "message": "Tools"
+    "message": "Công cụ"
   },
   "menuGoToAnything": {
-    "message": "Go To..."
+    "message": "Đi đến..."
   },
   "menuGoToLine": {
-    "message": "Go to Line"
+    "message": "Tới dòng"
   },
   "menuGoToSearch": {
-    "message": "Go to Search"
+    "message": "Tới Tìm kiếm"
   },
   "menuGoToRef": {
-    "message": "Go to Reference"
+    "message": "Tới Tham chiếu"
   },
   "menuCommandPalette": {
-    "message": "Open Command Palette"
+    "message": "Mở Command Palate"
   },
   "menuToggleMacro": {
-    "message": "Toggle Macro Recording"
+    "message": "Bật ghi Macro"
   },
   "menuReplayMacro": {
-    "message": "Replay Macro"
+    "message": "Chạy lại Macro"
   },
   "menuWordCount": {
-    "message": "Word Count"
+    "message": "Đếm Từ"
   },
   "menuProject": {
-    "message": "Project"
+    "message": "Dự án"
   },
   "menuAddDir": {
-    "message": "Add Directory"
+    "message": "Thêm thư mục"
   },
   "menuRemoveAllDirs": {
-    "message": "Remove All Directories"
+    "message": "Xóa hết thư mục"
   },
   "menuRefreshDir": {
-    "message": "Refresh Directories"
+    "message": "Làm tươi thư mục"
   },
   "menuSaveProject": {
-    "message": "Save Project File"
+    "message": "Lưu tệp dự án"
   },
   "menuEditProject": {
-    "message": "Edit Current Project"
+    "message": "Sửa dự án hiện tại"
   },
   "menuOpenProject": {
-    "message": "Open Project File"
+    "message": "Mở tệp dự án"
   },
   "menuClearProject": {
-    "message": "Clear Project"
+    "message": "Xóa dự án"
   },
   "menuSettings": {
-    "message": "Settings"
+    "message": "Cài đặt"
   },
   "menuUserPrefs": {
-    "message": "User Preferences"
+    "message": "Sở thích"
   },
   "menuKeyboard": {
-    "message": "Keyboard"
+    "message": "Bàn phím"
   },
   "menuMenus": {
-    "message": "Menus"
+    "message": "Menu"
   },
   "menuAPI": {
-    "message": "External Commands"
+    "message": "Câu lệnh ngoài"
   },
   "menuSequences": {
     "message": "Command Sequences"
   },
   "menuDefaults": {
-    "message": "View Defaults"
+    "message": "Xem mặc định"
   },
   "menuUserPrefsDefault": {
-    "message": "User Preferences (Defaults)"
+    "message": "Sở thích (Mặc định)"
   },
   "menuKeyboardDefault": {
-    "message": "Keyboard (Defaults)"
+    "message": "Bàn phím (Mặc định)"
   },
   "menuMenusDefault": {
-    "message": "Menus (Defaults)"
+    "message": "Menu (Mặc định)"
   },
   "menuSequencesDefault": {
     "message": "Command Sequences (Defaults)"
   },
   "menuReset": {
-    "message": "Reset"
+    "message": "Khôi phục"
   },
   "menuResetUserPrefs": {
-    "message": "Reset User Preferences"
+    "message": "Khôi phục sở thích"
   },
   "menuResetKeyboard": {
-    "message": "Reset Keyboard"
+    "message": "Khôi phục bàn phím"
   },
   "menuResetMenus": {
-    "message": "Reset Menus"
+    "message": "Khôi phục menu"
   },
   "menuResetSequences": {
     "message": "Reset Command Sequences"
@@ -237,64 +237,64 @@
     "message": "Emergency Reset"
   },
   "menuHelp": {
-    "message": "Help"
+    "message": "Trợ giúp"
   },
   "menuCheckForUpdates": {
-    "message": "Check for Updates"
+    "message": "Cập nhật"
   },
   "menuAboutCaret": {
-    "message": "About Caret"
+    "message": "Về Caret"
   },
   "dialogModifiedBackground": {
-    "message": "This file has been modified since the last time it was saved. Would you like to reload?"
+    "message": "Tệp này đã được chỉnh kể từ lần cuối nó được lưu. Bạn có muốn tải lại không?"
   },
   "dialogModifiedUnsaved": {
-    "message": "$1 has been modified.\nDo you want to save changes?"
+    "message": "$1 đã thay đổi.\nLưu thay đổi?"
   },
   "dialogCancel": {
-    "message": "Cancel"
+    "message": "Hủy"
   },
   "dialogOK": {
-    "message": "OK"
+    "message": "Xác nhận"
   },
   "dialogReload": {
-    "message": "Reload"
+    "message": "Tải lại"
   },
   "dialogSave": {
-    "message": "Save"
+    "message": "Lưu"
   },
   "dialogDiscard": {
-    "message": "Discard"
+    "message": "Bỏ qua"
   },
   "dialogUnsaved": {
-    "message": "$1 has unsaved work."
+    "message": "$1 có công việc chưa lưu."
   },
   "projectNoCurrentProject": {
-    "message": "No project currently open."
+    "message": "Hiện tại không có dự ná nào được mở."
   },
   "projectRemoveDirectory": {
     "message": "Remove from project"
   },
   "paletteExecuting": {
-    "message": "Executing $1..."
+    "message": "Đang chạy $1..."
   },
   "fileLoaded": {
-    "message": "Loaded $1, $2 bytes"
+    "message": "Đã tải $1, $2 bytes"
   },
   "fileAutosaving": {
-    "message": "Executing autosave for all tabs..."
+    "message": "Thực thi tự động lưu cho toàn bộ tab..."
   },
   "editorWordCount": {
-    "message": "$1 characters, $2 words, $3 lines"
+    "message": "$1 ký tự, $2 từ, $3 dòng"
   },
   "recordingMacro": {
-    "message": "Recording macro..."
+    "message": "Đang ghi macro..."
   },
   "setSyntax": {
-    "message": "Set Syntax: $1"
+    "message": "Đặt cú pháp: $1"
   },
   "setTheme": {
-    "message": "Set Theme: $1"
+    "message": "Đặt chủ đề: $1"
   },
   "selectSyntax": {
     "message": "Select syntax"
@@ -303,28 +303,28 @@
     "message": "Select theme"
   },
   "notificationUpdateAvailable": {
-    "message": "Caret: Update available"
+    "message": "Caret: Có sẵn bản cập nhật"
   },
   "notificationUpdateDetail": {
-    "message": "An update to version $1 is available. Would you like to update and restart now?"
+    "message": "Bản cập nhật của $1 có sẵn. Bạn có muốn cập nhật và khởi động lại ngay bây giờ?"
   },
   "notificationNoUpdateTitle": {
-    "message": "No updates available"
+    "message": "Không có bản cập nhật mới"
   },
   "notificationNoUpdateDetail": {
-    "message": "There aren't any updates for Caret at this time."
+    "message": "Không có bất kỳ bản cập nhật nào của Caret trong thời gian này."
   },
   "notificationUpdateOK": {
-    "message": "Yes, update and restart"
+    "message": "Có, cập nhật và khởi động lại"
   },
   "notificationUpdateWait": {
-    "message": "No thanks"
+    "message": "Không, cảm ơn"
   },
   "notificationUpdated": {
-    "message": "Caret has been updated"
+    "message": "Caret đã được cập nhật"
   },
   "notificationUpdatedDetail": {
-    "message": "Now at version $1. Click to see the changelog."
+    "message": "Phiên bản $1. Click để xem thay đổi trên Cửa hàng Chrome trực tuyến."
   },
   "searchDisplayQuery": {
     "message": "Searching for: $1\n"
