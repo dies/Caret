@@ -1,145 +1,368 @@
 {
-  "minimize": { "message": "Smanji" },
-  "maximize": { "message": "Povećaj" },
-  "close": { "message": "Zatvori" },
-  "loading": { "message": "učitava se" },
-
+  "minimize": {
+    "message": "Minimize"
+  },
+  "maximize": {
+    "message": "Maximize"
+  },
+  "close": {
+    "message": "Close"
+  },
+  "loading": {
+    "message": "loading"
+  },
   "aboutWrittenBy": {
-    "message": "Autor <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
+    "message": "Written by <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
   },
-  "aboutHomePage": { "message": "Web-stranica" },
-  "aboutSupport": { "message": "Podrška" },
+  "aboutHomePage": {
+    "message": "Home Page"
+  },
+  "aboutSupport": {
+    "message": "Support"
+  },
   "aboutLicense": {
-    "message": "Caret je dostupan pod GPL licencom, što znači da je <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>izvorni kod</a> slobodno dostupan i da ga se smije mijenjati po volji. Ako smatraš da je Caret koristan, doniraj <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>fondu za zaustavljanje softverskih patenta</a> zaklade Free Software Foundation."
+    "message": "Caret is available under a GPL license, which means that the <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>source code</a> is freely available for you to use and modify as you see fit. If you find Caret useful, consider donating to the Free Software Foundation's <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fund to End Software Patents</a>."
   },
-
-  "menuFile": { "message": "Datoteka" },
-  "menuNewFile": { "message": "Nova datoteka" },
-  "menuOpenFile": { "message": "Otvori datoteku" },
-  "menuSave": { "message": "Spremi datoteku" },
-  "menuSaveAs": { "message": "Spremi datoteku kao …" },
-  "menuSaveAll": { "message": "Spremi sve datoteke" },
-  "menuRevert": { "message": "Poništi sve promjene" },
-  "menuClose": { "message": "Zatvori datoteku" },
-  "menuPrint": { "message": "Ispiši" },
-  "menuExit": { "message": "Zatvori Caret" },
-
-  "menuEdit": { "message": "Uredi" },
-  "menuUndo": { "message": "Poništi" },
-  "menuRedo": { "message": "Ponovi" },
-  "menuInsertFromFile": { "message": "Umetni iz datoteke" },
-  "menuSelectWord": { "message": "Označi riječ" },
-  "menuSelectLine": { "message": "Označi redak" },
-  "menuSelectP": { "message": "Označi odlomak" },
-  "menuSelectToMatch": { "message": "Označi za usporedbu" },
-  "menuWrapToPrint": { "message": "Prelomi na margine ispisa" },
-  "menuFind": { "message": "Pronađi" },
-  "menuFindReplace": { "message": "Pronađi/Zamijeni" },
-  "menuFindNext": { "message": "Pronađi sljedeće" },
-  "menuSearchProject": { "message": "Pretraži sve datoteke" },
-  "menuToggleComment": { "message": "Uklj/isklj komentar" },
-  "menuBlockComment": { "message": "Uklj/isklj komentar bloka" },
-  "menuTabsToSpaces": { "message": "Pretvori tabulatore u razmake" },
-  "menuSpacesToTabs": { "message": "Pretvori razmake u tabulatore" },
-  "menuSetNewline": { "message": "Odredi vrstu prijeloma retka" },
-  "menuTrimWhitespace": { "message": "Ukloni razmake na kraju redaka" },
-  "menuJoinLines": { "message": "Spoji retke" },
-  "menuSortLines": { "message": "Razvrstaj retke" },
-  "menuSplitLine": { "message": "Rastavi retke" },
-  "menuKillLine": { "message": "Izbriši redak" },
-  "menuToUppercase": { "message": "U velika slova" },
-  "menuToLowercase": { "message": "U mala slova" },
-  "menuMoveLinesUp": { "message": "Premjesti retke gore" },
-  "menuMoveLinesDown": { "message": "Premjesti retke dolje" },
-
-  "menuTools": { "message": "Alati" },
-  "menuGoToAnything": { "message": "Prijeđi na …" },
-  "menuGoToLine": { "message": "Prijeđi na redak" },
-  "menuGoToSearch": { "message": "Prijeđi na pretragu" },
-  "menuGoToRef": { "message": "Prijeđi na referencu" },
-  "menuCommandPalette": { "message": "Otvori naredbe" },
-  "menuToggleMacro": { "message": "Uklj/isklj snimanje makronaredbi" },
-  "menuReplayMacro": { "message": "Ponovi makronaredbu" },
-  "menuWordCount": { "message": "Broj riječi" },
-
-  "menuProject": { "message": "Projekt" },
-  "menuAddDir": { "message": "Dodaj mapu" },
-  "menuRemoveAllDirs": { "message": "Ukloni sve mape" },
-  "menuRefreshDir": { "message": "Aktualiziraj mape" },
-  "menuSaveProject": { "message": "Spremi datoteku projekta" },
-  "menuEditProject": { "message": "Uredi trenutačni projekt" },
-  "menuOpenProject": { "message": "Otvori datoteku projekta" },
-  "menuClearProject": { "message": "Izbriši projekt" },
-
-  "menuSettings": { "message": "Postavke" },
-  "menuUserPrefs": { "message": "Korisničke postavke" },
-  "menuKeyboard": { "message": "Tipkovnica" },
-  "menuMenus": { "message": "Izbornici" },
-  "menuAPI": { "message": "Vanjske naredbe" },
-  "menuSequences": { "message": "Naredbeni nizovi" },
-  "menuDefaults": { "message": "Standardne postavke" },
-  "menuUserPrefsDefault": { "message": "Korisničke postavke (standardne)" },
-  "menuKeyboardDefault": { "message": "Tipkovnica (standardna)" },
-  "menuMenusDefault": { "message": "Izbornici (standardne)" },
-  "menuSequencesDefault": { "message": "Naredbeni nizovi (standardni)" },
-  "menuReset": { "message": "Vrati na standardne postavke" },
-  "menuResetUserPrefs": { "message": "Vrati standardne korisničke postavke" },
-  "menuResetKeyboard": { "message": "Vrati na standardnu tipkovnicu" },
-  "menuResetMenus": { "message": "Vrati na standardne izbornike" },
-  "menuResetSequences": { "message": "Vrati na standardne naredbene nizove" },
-  "menuEmergencyReset": { "message": "Vrati sve" },
-  "menuHelp": { "message": "Pomoć" },
-  "menuCheckForUpdates": { "message": "Provjeri aktualnost programa" },
-  "menuAboutCaret": { "message": "O programu Caret" },
-
-  "dialogModifiedBackground": { "message": "Ova je datoteka promijenjena od kad je zadnji put spremljena. Želiš li je ponovo učitati?" },
-  "dialogModifiedUnsaved": { "message": "$1 je promijenjena.\nŽeliš li spremiti promjene?" },
-  "dialogCancel": { "message": "Odustani" },
-  "dialogOK": { "message": "U redu" },
-  "dialogReload": { "message": "Učitaj ponovo" },
-  "dialogSave": { "message": "Spremi" },
-  "dialogDiscard": { "message": "Odbaci" },
-  "dialogUnsaved": { "message": "$1 sadrži nespremljene promjene." },
-
-  "projectNoCurrentProject": { "message": "Trenutačno nije otvoren nijedan projekt." },
-  "projectRemoveDirectory": { "message": "Ukloni iz projekta" },
-
-  "paletteExecuting": { "message": "Izvršava se $1 …" },
-
-  "fileLoaded": { "message": "Učitana je datoteka $1, $2 bajtova" },
-  "fileAutosaving": { "message": "Izvršava se automatsko spremanje za sve kartice …" },
-
-  "editorWordCount": { "message": "$1 znakova, $2 riječi, $3 redaka" },
-
-  "recordingMacro": { "message": "Snimanje makronaredbe …" },
-  "setSyntax": { "message": "Postavi sintaksu: $1" },
-  "setTheme": { "message": "Postavi temu: $1" },
-  "selectSyntax": { "message": "Odaberi sintaksu" },
-  "selectTheme": { "message": "Odaberi temu" },
-
-  "notificationUpdateAvailable": { "message": "Caret: Dostupna je nova verzija" },
-  "notificationUpdateDetail": { "message": "Dostupna je nova verzija $1. Želiš li je instalirati i ponovo pokrenuti Caret?" },
-  "notificationNoUpdateTitle": { "message": "Nema novih verzija" },
-  "notificationNoUpdateDetail": { "message": "Trenutačno nema novih verzija za Caret." },
-  "notificationUpdateOK": { "message": "Da, instaliraj i ponovo pokrenuti Caret" },
-  "notificationUpdateWait": { "message": "Ne hvala" },
-  "notificationUpdated": { "message": "Caret je aktualiziran" },
-  "notificationUpdatedDetail": { "message": "Sada imaš verziju $1. Pritisni za prikaz zapisa promjena." },
-
-  "searchDisplayQuery": { "message": "Traži se: $1\n" },
-  "searchTabName": { "message": "Rezultati: $1" },
-  "searchNoDirectories": { "message": "\nNijedna datoteka nije pretražena. Tvom projektu moraš najprije dodati jednu mapu." },
-  "searchSummary": { "message": "\n\n$1 matches found. $2 files scanned." },
-  "searchCancelled": { "message": "\nPretraga je prekinuta. Maksimalno dozvoljeni broj rezultata pretrage možeš promijeniti u korisničkim postavkama." },
-  "searchMatchCase": { "message": "Razlikuj velika/mala slova" },
-  "searchFindAll": { "message": "Pronađi sve" },
-
-  "errorMissingFont": { "message": "Odabrani font nije dostupan za Caret, koji koristi samo na sustavu instalirane fontove. Umjesto toga će se koristit standardni font." },
-  "errorProportionalFont": { "message": "Odabrani prilagođeni font može prouzrokovati probleme s Caretovom komponentom za uređivanje, koja podržava samo fontove fiksne širine (sva slova fonta su jednake širine). Ako naiđeš na probleme s kursorom, vrati postavku fontFamily (obitelj fontova) u korisničkim postavkama na standarnu vrijednost." },
-
-  "tabClose": { "message": "Zatvori" },
-  "tabCloseRight": { "message": "Zatvori desne kartice" },
-  "tabCopyPath": { "message": "Kopiraj stazu datoteke" },
-  "tabRevealInSideBar": { "message": "Prikaži u bočnoj traci" }
-
+  "menuFile": {
+    "message": "File"
+  },
+  "menuNewFile": {
+    "message": "New File"
+  },
+  "menuOpenFile": {
+    "message": "Open File"
+  },
+  "menuSave": {
+    "message": "Save File"
+  },
+  "menuSaveAs": {
+    "message": "Save File As..."
+  },
+  "menuSaveAll": {
+    "message": "Save All Files"
+  },
+  "menuRevert": {
+    "message": "Revert"
+  },
+  "menuClose": {
+    "message": "Close File"
+  },
+  "menuPrint": {
+    "message": "Print"
+  },
+  "menuExit": {
+    "message": "Exit"
+  },
+  "menuEdit": {
+    "message": "Edit"
+  },
+  "menuUndo": {
+    "message": "Undo"
+  },
+  "menuRedo": {
+    "message": "Redo"
+  },
+  "menuInsertFromFile": {
+    "message": "Insert From File"
+  },
+  "menuSelectWord": {
+    "message": "Select Word"
+  },
+  "menuSelectLine": {
+    "message": "Select Line"
+  },
+  "menuSelectP": {
+    "message": "Select Paragraph"
+  },
+  "menuSelectToMatch": {
+    "message": "Select to Matching"
+  },
+  "menuWrapToPrint": {
+    "message": "Wrap to Print Margin"
+  },
+  "menuFind": {
+    "message": "Find"
+  },
+  "menuFindReplace": {
+    "message": "Find/Replace"
+  },
+  "menuFindNext": {
+    "message": "Find Next"
+  },
+  "menuSearchProject": {
+    "message": "Search All Files"
+  },
+  "menuToggleComment": {
+    "message": "Toggle Comment"
+  },
+  "menuBlockComment": {
+    "message": "Toggle Block Comment"
+  },
+  "menuTabsToSpaces": {
+    "message": "Convert Tabs to Spaces"
+  },
+  "menuSpacesToTabs": {
+    "message": "Convert Spaces to Tabs"
+  },
+  "menuSetNewline": {
+    "message": "Set Newline Mode"
+  },
+  "menuTrimWhitespace": {
+    "message": "Trim Trailing Whitespace"
+  },
+  "menuJoinLines": {
+    "message": "Join Lines"
+  },
+  "menuSortLines": {
+    "message": "Sort Lines"
+  },
+  "menuSplitLine": {
+    "message": "Split Line"
+  },
+  "menuKillLine": {
+    "message": "Kill Line"
+  },
+  "menuToUppercase": {
+    "message": "To Uppercase"
+  },
+  "menuToLowercase": {
+    "message": "To Lowercase"
+  },
+  "menuMoveLinesUp": {
+    "message": "Move Lines Up"
+  },
+  "menuMoveLinesDown": {
+    "message": "Move Lines Down"
+  },
+  "menuTools": {
+    "message": "Tools"
+  },
+  "menuGoToAnything": {
+    "message": "Go To..."
+  },
+  "menuGoToLine": {
+    "message": "Go to Line"
+  },
+  "menuGoToSearch": {
+    "message": "Go to Search"
+  },
+  "menuGoToRef": {
+    "message": "Go to Reference"
+  },
+  "menuCommandPalette": {
+    "message": "Open Command Palette"
+  },
+  "menuToggleMacro": {
+    "message": "Toggle Macro Recording"
+  },
+  "menuReplayMacro": {
+    "message": "Replay Macro"
+  },
+  "menuWordCount": {
+    "message": "Word Count"
+  },
+  "menuProject": {
+    "message": "Project"
+  },
+  "menuAddDir": {
+    "message": "Add Directory"
+  },
+  "menuRemoveAllDirs": {
+    "message": "Remove All Directories"
+  },
+  "menuRefreshDir": {
+    "message": "Refresh Directories"
+  },
+  "menuSaveProject": {
+    "message": "Save Project File"
+  },
+  "menuEditProject": {
+    "message": "Edit Current Project"
+  },
+  "menuOpenProject": {
+    "message": "Open Project File"
+  },
+  "menuClearProject": {
+    "message": "Clear Project"
+  },
+  "menuSettings": {
+    "message": "Settings"
+  },
+  "menuUserPrefs": {
+    "message": "User Preferences"
+  },
+  "menuKeyboard": {
+    "message": "Keyboard"
+  },
+  "menuMenus": {
+    "message": "Menus"
+  },
+  "menuAPI": {
+    "message": "External Commands"
+  },
+  "menuSequences": {
+    "message": "Command Sequences"
+  },
+  "menuDefaults": {
+    "message": "View Defaults"
+  },
+  "menuUserPrefsDefault": {
+    "message": "User Preferences (Defaults)"
+  },
+  "menuKeyboardDefault": {
+    "message": "Keyboard (Defaults)"
+  },
+  "menuMenusDefault": {
+    "message": "Menus (Defaults)"
+  },
+  "menuSequencesDefault": {
+    "message": "Command Sequences (Defaults)"
+  },
+  "menuReset": {
+    "message": "Reset"
+  },
+  "menuResetUserPrefs": {
+    "message": "Reset User Preferences"
+  },
+  "menuResetKeyboard": {
+    "message": "Reset Keyboard"
+  },
+  "menuResetMenus": {
+    "message": "Reset Menus"
+  },
+  "menuResetSequences": {
+    "message": "Reset Command Sequences"
+  },
+  "menuEmergencyReset": {
+    "message": "Emergency Reset"
+  },
+  "menuHelp": {
+    "message": "Help"
+  },
+  "menuCheckForUpdates": {
+    "message": "Check for Updates"
+  },
+  "menuAboutCaret": {
+    "message": "About Caret"
+  },
+  "dialogModifiedBackground": {
+    "message": "This file has been modified since the last time it was saved. Would you like to reload?"
+  },
+  "dialogModifiedUnsaved": {
+    "message": "$1 has been modified.\nDo you want to save changes?"
+  },
+  "dialogCancel": {
+    "message": "Cancel"
+  },
+  "dialogOK": {
+    "message": "OK"
+  },
+  "dialogReload": {
+    "message": "Reload"
+  },
+  "dialogSave": {
+    "message": "Save"
+  },
+  "dialogDiscard": {
+    "message": "Discard"
+  },
+  "dialogUnsaved": {
+    "message": "$1 has unsaved work."
+  },
+  "projectNoCurrentProject": {
+    "message": "No project currently open."
+  },
+  "projectRemoveDirectory": {
+    "message": "Remove from project"
+  },
+  "paletteExecuting": {
+    "message": "Executing $1..."
+  },
+  "fileLoaded": {
+    "message": "Loaded $1, $2 bytes"
+  },
+  "fileAutosaving": {
+    "message": "Executing autosave for all tabs..."
+  },
+  "editorWordCount": {
+    "message": "$1 characters, $2 words, $3 lines"
+  },
+  "recordingMacro": {
+    "message": "Recording macro..."
+  },
+  "setSyntax": {
+    "message": "Set Syntax: $1"
+  },
+  "setTheme": {
+    "message": "Set Theme: $1"
+  },
+  "selectSyntax": {
+    "message": "Select syntax"
+  },
+  "selectTheme": {
+    "message": "Select theme"
+  },
+  "notificationUpdateAvailable": {
+    "message": "Caret: Update available"
+  },
+  "notificationUpdateDetail": {
+    "message": "An update to version $1 is available. Would you like to update and restart now?"
+  },
+  "notificationNoUpdateTitle": {
+    "message": "No updates available"
+  },
+  "notificationNoUpdateDetail": {
+    "message": "There aren't any updates for Caret at this time."
+  },
+  "notificationUpdateOK": {
+    "message": "Yes, update and restart"
+  },
+  "notificationUpdateWait": {
+    "message": "No thanks"
+  },
+  "notificationUpdated": {
+    "message": "Caret has been updated"
+  },
+  "notificationUpdatedDetail": {
+    "message": "Now at version $1. Click to see the changelog."
+  },
+  "searchDisplayQuery": {
+    "message": "Searching for: $1\n"
+  },
+  "searchTabName": {
+    "message": "Results: $1"
+  },
+  "searchNoDirectories": {
+    "message": "\nNo files scanned. You'll need to add a directory to your project first."
+  },
+  "searchSummary": {
+    "message": "\n\n$1 matches found. $2 files scanned."
+  },
+  "searchCancelled": {
+    "message": "\nSearch was cancelled. You can change the maximum number of search results allowed in User Preferences."
+  },
+  "searchMatchCase": {
+    "message": "Match Case"
+  },
+  "searchFindAll": {
+    "message": "Find All"
+  },
+  "errorMissingFont": {
+    "message": "The font you've selected isn't available to Caret, which can only use fonts installed on your system. A default font will be used instead."
+  },
+  "errorProportionalFont": {
+    "message": "The custom font you've selected may cause problems with Caret's editing component, which only supports monospaced fonts (where the letters are all the same width). If you experience cursor issues, please reset the fontFamily setting in your user preferences."
+  },
+  "tabClose": {
+    "message": "Close"
+  },
+  "tabCloseRight": {
+    "message": "Close tabs to the right"
+  },
+  "tabCopyPath": {
+    "message": "Copy file path"
+  },
+  "tabRevealInSideBar": {
+    "message": "Reveal in side bar"
+  }
 }
