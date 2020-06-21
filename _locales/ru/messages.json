@@ -9,292 +9,292 @@
     "message": "Close"
   },
   "loading": {
-    "message": "loading"
+    "message": "загрузка"
   },
   "aboutWrittenBy": {
-    "message": "Written by <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
+    "message": "Автор <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
   },
   "aboutHomePage": {
-    "message": "Home Page"
+    "message": "Веб-сайт проекта"
   },
   "aboutSupport": {
-    "message": "Support"
+    "message": "Поддержка"
   },
   "aboutLicense": {
-    "message": "Caret is available under a GPL license, which means that the <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>source code</a> is freely available for you to use and modify as you see fit. If you find Caret useful, consider donating to the Free Software Foundation's <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fund to End Software Patents</a>."
+    "message": "Caret доступен под GPL лицензией, что означает, что его <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>исходный код</a> находится в свободном доступе и вы можете использовать и изменять его по своему усмотрению. Если вы находите Caret полезным, то поддержите Free Software Foundation's <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fund to End Software Patents</a>."
   },
   "menuFile": {
-    "message": "File"
+    "message": "Файл"
   },
   "menuNewFile": {
-    "message": "New File"
+    "message": "Создать"
   },
   "menuOpenFile": {
-    "message": "Open File"
+    "message": "Открыть"
   },
   "menuSave": {
-    "message": "Save File"
+    "message": "Сохранить"
   },
   "menuSaveAs": {
-    "message": "Save File As..."
+    "message": "Сохранить как..."
   },
   "menuSaveAll": {
-    "message": "Save All Files"
+    "message": "Сохранить все файлы"
   },
   "menuRevert": {
-    "message": "Revert"
+    "message": "Восстановить"
   },
   "menuClose": {
-    "message": "Close File"
+    "message": "Закрыть"
   },
   "menuPrint": {
-    "message": "Print"
+    "message": "Печать"
   },
   "menuExit": {
-    "message": "Exit"
+    "message": "Выход"
   },
   "menuEdit": {
-    "message": "Edit"
+    "message": "Правка"
   },
   "menuUndo": {
-    "message": "Undo"
+    "message": "Отмена"
   },
   "menuRedo": {
-    "message": "Redo"
+    "message": "Повтор"
   },
   "menuInsertFromFile": {
-    "message": "Insert From File"
+    "message": "Вставить из файла"
   },
   "menuSelectWord": {
-    "message": "Select Word"
+    "message": "Выделить слово"
   },
   "menuSelectLine": {
-    "message": "Select Line"
+    "message": "Выделить строку"
   },
   "menuSelectP": {
-    "message": "Select Paragraph"
+    "message": "Выделить всё"
   },
   "menuSelectToMatch": {
-    "message": "Select to Matching"
+    "message": "Выделить до совпадения"
   },
   "menuWrapToPrint": {
-    "message": "Wrap to Print Margin"
+    "message": "Удалить пробелы и табуляцию"
   },
   "menuFind": {
-    "message": "Find"
+    "message": "Поиск"
   },
   "menuFindReplace": {
-    "message": "Find/Replace"
+    "message": "Замена"
   },
   "menuFindNext": {
-    "message": "Find Next"
+    "message": "Искать далее"
   },
   "menuSearchProject": {
-    "message": "Search All Files"
+    "message": "Искать по всем файлам"
   },
   "menuToggleComment": {
-    "message": "Toggle Comment"
+    "message": "Закомментировать строку"
   },
   "menuBlockComment": {
-    "message": "Toggle Block Comment"
+    "message": "Блочный комментарий"
   },
   "menuTabsToSpaces": {
-    "message": "Convert Tabs to Spaces"
+    "message": "Табы в пробелы"
   },
   "menuSpacesToTabs": {
-    "message": "Convert Spaces to Tabs"
+    "message": "Пробелы в табы"
   },
   "menuSetNewline": {
-    "message": "Set Newline Mode"
+    "message": "Режим новой строки"
   },
   "menuTrimWhitespace": {
-    "message": "Trim Trailing Whitespace"
+    "message": "Удалить пробелы в конце строк"
   },
   "menuJoinLines": {
-    "message": "Join Lines"
+    "message": "Объединить строки"
   },
   "menuSortLines": {
-    "message": "Sort Lines"
+    "message": "Отсортировать строки по алфавиту"
   },
   "menuSplitLine": {
-    "message": "Split Line"
+    "message": "Разбить строки"
   },
   "menuKillLine": {
-    "message": "Kill Line"
+    "message": "Удалить строки"
   },
   "menuToUppercase": {
-    "message": "To Uppercase"
+    "message": "Преобразовать в ПРОПИСНЫЕ"
   },
   "menuToLowercase": {
-    "message": "To Lowercase"
+    "message": "Преобразовать в строчные"
   },
   "menuMoveLinesUp": {
-    "message": "Move Lines Up"
+    "message": "Поднять текущую строку"
   },
   "menuMoveLinesDown": {
-    "message": "Move Lines Down"
+    "message": "Опустить текущую строку"
   },
   "menuTools": {
-    "message": "Tools"
+    "message": "Инструменты"
   },
   "menuGoToAnything": {
-    "message": "Go To..."
+    "message": "Перейти к..."
   },
   "menuGoToLine": {
-    "message": "Go to Line"
+    "message": "Перейти к строке"
   },
   "menuGoToSearch": {
-    "message": "Go to Search"
+    "message": "Поиск по мере ввода"
   },
   "menuGoToRef": {
-    "message": "Go to Reference"
+    "message": "Перейти к ссылке"
   },
   "menuCommandPalette": {
-    "message": "Open Command Palette"
+    "message": "Поиск команд"
   },
   "menuToggleMacro": {
-    "message": "Toggle Macro Recording"
+    "message": "Старт/стоп записи макроса"
   },
   "menuReplayMacro": {
-    "message": "Replay Macro"
+    "message": "Повторить макрос"
   },
   "menuWordCount": {
-    "message": "Word Count"
+    "message": "Подсчёт слов"
   },
   "menuProject": {
-    "message": "Project"
+    "message": "Проект"
   },
   "menuAddDir": {
-    "message": "Add Directory"
+    "message": "Добавить папку"
   },
   "menuRemoveAllDirs": {
-    "message": "Remove All Directories"
+    "message": "Удалить все папки"
   },
   "menuRefreshDir": {
-    "message": "Refresh Directories"
+    "message": "Обновить папки"
   },
   "menuSaveProject": {
-    "message": "Save Project File"
+    "message": "Сохранить файл проекта"
   },
   "menuEditProject": {
-    "message": "Edit Current Project"
+    "message": "Редактировать текущий проект"
   },
   "menuOpenProject": {
-    "message": "Open Project File"
+    "message": "Открыть файл проекта"
   },
   "menuClearProject": {
-    "message": "Clear Project"
+    "message": "Очистить проект"
   },
   "menuSettings": {
-    "message": "Settings"
+    "message": "Настройки"
   },
   "menuUserPrefs": {
-    "message": "User Preferences"
+    "message": "Общие"
   },
   "menuKeyboard": {
-    "message": "Keyboard"
+    "message": "Быстрые клавиши"
   },
   "menuMenus": {
-    "message": "Menus"
+    "message": "Меню"
   },
   "menuAPI": {
-    "message": "External Commands"
+    "message": "Внешние команды"
   },
   "menuSequences": {
-    "message": "Command Sequences"
+    "message": "Серия команд"
   },
   "menuDefaults": {
-    "message": "View Defaults"
+    "message": "Стандартные настройки"
   },
   "menuUserPrefsDefault": {
-    "message": "User Preferences (Defaults)"
+    "message": "Общие"
   },
   "menuKeyboardDefault": {
-    "message": "Keyboard (Defaults)"
+    "message": "Быстрые клавиши"
   },
   "menuMenusDefault": {
-    "message": "Menus (Defaults)"
+    "message": "Меню"
   },
   "menuSequencesDefault": {
-    "message": "Command Sequences (Defaults)"
+    "message": "Серия команд"
   },
   "menuReset": {
-    "message": "Reset"
+    "message": "Сбросить настройки"
   },
   "menuResetUserPrefs": {
-    "message": "Reset User Preferences"
+    "message": "Общие"
   },
   "menuResetKeyboard": {
-    "message": "Reset Keyboard"
+    "message": "Быстрые клавиши"
   },
   "menuResetMenus": {
-    "message": "Reset Menus"
+    "message": "Меню"
   },
   "menuResetSequences": {
-    "message": "Reset Command Sequences"
+    "message": "Серия команд"
   },
   "menuEmergencyReset": {
-    "message": "Emergency Reset"
+    "message": "Сбросить всё"
   },
   "menuHelp": {
-    "message": "Help"
+    "message": "Справка"
   },
   "menuCheckForUpdates": {
-    "message": "Check for Updates"
+    "message": "Проверить обновления"
   },
   "menuAboutCaret": {
-    "message": "About Caret"
+    "message": "О Caret"
   },
   "dialogModifiedBackground": {
-    "message": "This file has been modified since the last time it was saved. Would you like to reload?"
+    "message": "Этот файл был изменён с момента последнего сохранения. Открыть его заново?"
   },
   "dialogModifiedUnsaved": {
-    "message": "$1 has been modified.\nDo you want to save changes?"
+    "message": "$1 был изменён.\nВы хотите сохранить изменения?"
   },
   "dialogCancel": {
-    "message": "Cancel"
+    "message": "Отмена"
   },
   "dialogOK": {
-    "message": "OK"
+    "message": "ОК"
   },
   "dialogReload": {
-    "message": "Reload"
+    "message": "Перезагрузить"
   },
   "dialogSave": {
-    "message": "Save"
+    "message": "Сохранить"
   },
   "dialogDiscard": {
-    "message": "Discard"
+    "message": "Не сохранять"
   },
   "dialogUnsaved": {
-    "message": "$1 has unsaved work."
+    "message": "$1 имеет несохранённые изменения."
   },
   "projectNoCurrentProject": {
-    "message": "No project currently open."
+    "message": "Нет открытых проектов."
   },
   "projectRemoveDirectory": {
     "message": "Remove from project"
   },
   "paletteExecuting": {
-    "message": "Executing $1..."
+    "message": "Выполнение $1..."
   },
   "fileLoaded": {
-    "message": "Loaded $1, $2 bytes"
+    "message": "Загружено $1, $2 байт"
   },
   "fileAutosaving": {
-    "message": "Executing autosave for all tabs..."
+    "message": "Выполнение автосохранения для всех вкладок..."
   },
   "editorWordCount": {
-    "message": "$1 characters, $2 words, $3 lines"
+    "message": "$1 символов, $2 слов, $3 строк"
   },
   "recordingMacro": {
-    "message": "Recording macro..."
+    "message": "Запись макроса..."
   },
   "setSyntax": {
-    "message": "Set Syntax: $1"
+    "message": "Установить синтаксис: $1"
   },
   "setTheme": {
-    "message": "Set Theme: $1"
+    "message": "Установить тему: $1"
   },
   "selectSyntax": {
     "message": "Select syntax"
@@ -303,43 +303,43 @@
     "message": "Select theme"
   },
   "notificationUpdateAvailable": {
-    "message": "Caret: Update available"
+    "message": "Caret: Доступно обновление"
   },
   "notificationUpdateDetail": {
-    "message": "An update to version $1 is available. Would you like to update and restart now?"
+    "message": "Доступно обновление до версии $1. Хотите обновиться сейчас (потребуется перезагрузка)?"
   },
   "notificationNoUpdateTitle": {
-    "message": "No updates available"
+    "message": "Нет доступных обновлений"
   },
   "notificationNoUpdateDetail": {
-    "message": "There aren't any updates for Caret at this time."
+    "message": "Сейчас нет никаких обновлений для Caret."
   },
   "notificationUpdateOK": {
-    "message": "Yes, update and restart"
+    "message": "Да, обновить и перезапустить"
   },
   "notificationUpdateWait": {
-    "message": "No thanks"
+    "message": "Нет, спасибо"
   },
   "notificationUpdated": {
-    "message": "Caret has been updated"
+    "message": "Caret был обновлён"
   },
   "notificationUpdatedDetail": {
-    "message": "Now at version $1. Click to see the changelog."
+    "message": "Новая версия: $1. Нажмите, чтобы увидеть список изменений."
   },
   "searchDisplayQuery": {
-    "message": "Searching for: $1\n"
+    "message": "Поиск: $1\n"
   },
   "searchTabName": {
-    "message": "Results: $1"
+    "message": "Результаты: $1"
   },
   "searchNoDirectories": {
-    "message": "\nNo files scanned. You'll need to add a directory to your project first."
+    "message": "\nНет просканированных файлов. Сначала добавьте папку к вашему проекту."
   },
   "searchSummary": {
-    "message": "\n\n$1 matches found. $2 files scanned."
+    "message": "\n\nНайдено совпадений: $1. Файлов просканировано: $2."
   },
   "searchCancelled": {
-    "message": "\nSearch was cancelled. You can change the maximum number of search results allowed in User Preferences."
+    "message": "\nПоиск был отменён. Вы можете изменить максимальное количество разрешённых результатов поиска в общих настройках."
   },
   "searchMatchCase": {
     "message": "Match Case"
