@@ -9,292 +9,292 @@
     "message": "Close"
   },
   "loading": {
-    "message": "loading"
+    "message": "加载中"
   },
   "aboutWrittenBy": {
-    "message": "Written by <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
+    "message": "作者 <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
   },
   "aboutHomePage": {
-    "message": "Home Page"
+    "message": "首页"
   },
   "aboutSupport": {
-    "message": "Support"
+    "message": "支持"
   },
   "aboutLicense": {
-    "message": "Caret is available under a GPL license, which means that the <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>source code</a> is freely available for you to use and modify as you see fit. If you find Caret useful, consider donating to the Free Software Foundation's <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fund to End Software Patents</a>."
+    "message": "Caret is available under a GPL license, which means that the <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>source code</a> is freely available for you to use and modify as you see fit. If you find Caret useful, consider donating to the Free Software Foundation's <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fund to End Software Patents</a>.汉化:nolanzhou"
   },
   "menuFile": {
-    "message": "File"
+    "message": "文件"
   },
   "menuNewFile": {
-    "message": "New File"
+    "message": "新建"
   },
   "menuOpenFile": {
-    "message": "Open File"
+    "message": "打开"
   },
   "menuSave": {
-    "message": "Save File"
+    "message": "保存"
   },
   "menuSaveAs": {
-    "message": "Save File As..."
+    "message": "另存为.."
   },
   "menuSaveAll": {
     "message": "Save All Files"
   },
   "menuRevert": {
-    "message": "Revert"
+    "message": "回复"
   },
   "menuClose": {
-    "message": "Close File"
+    "message": "关闭"
   },
   "menuPrint": {
-    "message": "Print"
+    "message": "打印"
   },
   "menuExit": {
-    "message": "Exit"
+    "message": "退出"
   },
   "menuEdit": {
-    "message": "Edit"
+    "message": "编辑"
   },
   "menuUndo": {
-    "message": "Undo"
+    "message": "撤销"
   },
   "menuRedo": {
-    "message": "Redo"
+    "message": "重做"
   },
   "menuInsertFromFile": {
-    "message": "Insert From File"
+    "message": "从文件插入.."
   },
   "menuSelectWord": {
-    "message": "Select Word"
+    "message": "选择单词"
   },
   "menuSelectLine": {
-    "message": "Select Line"
+    "message": "选择行"
   },
   "menuSelectP": {
-    "message": "Select Paragraph"
+    "message": "选择段落"
   },
   "menuSelectToMatch": {
-    "message": "Select to Matching"
+    "message": "选择区域{...}"
   },
   "menuWrapToPrint": {
-    "message": "Wrap to Print Margin"
+    "message": "打印区域换行"
   },
   "menuFind": {
-    "message": "Find"
+    "message": "查找"
   },
   "menuFindReplace": {
-    "message": "Find/Replace"
+    "message": "查找/替换"
   },
   "menuFindNext": {
-    "message": "Find Next"
+    "message": "查找下一个"
   },
   "menuSearchProject": {
     "message": "Search All Files"
   },
   "menuToggleComment": {
-    "message": "Toggle Comment"
+    "message": "注释切换"
   },
   "menuBlockComment": {
-    "message": "Toggle Block Comment"
+    "message": "区域注释切换"
   },
   "menuTabsToSpaces": {
-    "message": "Convert Tabs to Spaces"
+    "message": "Tab转空格"
   },
   "menuSpacesToTabs": {
-    "message": "Convert Spaces to Tabs"
+    "message": "空格转Tab"
   },
   "menuSetNewline": {
-    "message": "Set Newline Mode"
+    "message": "设置行模式"
   },
   "menuTrimWhitespace": {
-    "message": "Trim Trailing Whitespace"
+    "message": "移除行末空格"
   },
   "menuJoinLines": {
-    "message": "Join Lines"
+    "message": "连接多行"
   },
   "menuSortLines": {
-    "message": "Sort Lines"
+    "message": "排序多行"
   },
   "menuSplitLine": {
-    "message": "Split Line"
+    "message": "分割行"
   },
   "menuKillLine": {
-    "message": "Kill Line"
+    "message": "删除行"
   },
   "menuToUppercase": {
-    "message": "To Uppercase"
+    "message": "所选内容转为大写"
   },
   "menuToLowercase": {
-    "message": "To Lowercase"
+    "message": "所选内容转为小写"
   },
   "menuMoveLinesUp": {
-    "message": "Move Lines Up"
+    "message": "上升多行"
   },
   "menuMoveLinesDown": {
-    "message": "Move Lines Down"
+    "message": "下降多行"
   },
   "menuTools": {
-    "message": "Tools"
+    "message": "工具"
   },
   "menuGoToAnything": {
-    "message": "Go To..."
+    "message": "跳转文件.."
   },
   "menuGoToLine": {
-    "message": "Go to Line"
+    "message": "跳至某行.."
   },
   "menuGoToSearch": {
-    "message": "Go to Search"
+    "message": "搜索文件并跳转.."
   },
   "menuGoToRef": {
-    "message": "Go to Reference"
+    "message": "搜索内容并跳转.."
   },
   "menuCommandPalette": {
-    "message": "Open Command Palette"
+    "message": "命令面板"
   },
   "menuToggleMacro": {
-    "message": "Toggle Macro Recording"
+    "message": "开始/结束宏录制"
   },
   "menuReplayMacro": {
-    "message": "Replay Macro"
+    "message": "使用宏"
   },
   "menuWordCount": {
-    "message": "Word Count"
+    "message": "内容统计"
   },
   "menuProject": {
-    "message": "Project"
+    "message": "项目"
   },
   "menuAddDir": {
-    "message": "Add Directory"
+    "message": "添加文件夹"
   },
   "menuRemoveAllDirs": {
-    "message": "Remove All Directories"
+    "message": "移除所有文件夹"
   },
   "menuRefreshDir": {
-    "message": "Refresh Directories"
+    "message": "刷新"
   },
   "menuSaveProject": {
-    "message": "Save Project File"
+    "message": "保存项目文件"
   },
   "menuEditProject": {
-    "message": "Edit Current Project"
+    "message": "编辑自定义项目"
   },
   "menuOpenProject": {
-    "message": "Open Project File"
+    "message": "打开项目文件"
   },
   "menuClearProject": {
-    "message": "Clear Project"
+    "message": "移除项目"
   },
   "menuSettings": {
-    "message": "Settings"
+    "message": "设置"
   },
   "menuUserPrefs": {
-    "message": "User Preferences"
+    "message": "用户偏好"
   },
   "menuKeyboard": {
-    "message": "Keyboard"
+    "message": "快捷键"
   },
   "menuMenus": {
-    "message": "Menus"
+    "message": "菜单"
   },
   "menuAPI": {
-    "message": "External Commands"
+    "message": "外部命令"
   },
   "menuSequences": {
     "message": "Command Sequences"
   },
   "menuDefaults": {
-    "message": "View Defaults"
+    "message": "默认配置"
   },
   "menuUserPrefsDefault": {
-    "message": "User Preferences (Defaults)"
+    "message": "用户偏好 (默认)"
   },
   "menuKeyboardDefault": {
-    "message": "Keyboard (Defaults)"
+    "message": "快捷键 (默认)"
   },
   "menuMenusDefault": {
-    "message": "Menus (Defaults)"
+    "message": "菜单 (默认)"
   },
   "menuSequencesDefault": {
     "message": "Command Sequences (Defaults)"
   },
   "menuReset": {
-    "message": "Reset"
+    "message": "重置"
   },
   "menuResetUserPrefs": {
-    "message": "Reset User Preferences"
+    "message": "重置用户配置"
   },
   "menuResetKeyboard": {
-    "message": "Reset Keyboard"
+    "message": "重置快捷键"
   },
   "menuResetMenus": {
-    "message": "Reset Menus"
+    "message": "重置菜单"
   },
   "menuResetSequences": {
     "message": "Reset Command Sequences"
   },
   "menuEmergencyReset": {
-    "message": "Emergency Reset"
+    "message": "复位"
   },
   "menuHelp": {
-    "message": "Help"
+    "message": "帮助"
   },
   "menuCheckForUpdates": {
-    "message": "Check for Updates"
+    "message": "检查更新"
   },
   "menuAboutCaret": {
-    "message": "About Caret"
+    "message": "关于Caret"
   },
   "dialogModifiedBackground": {
-    "message": "This file has been modified since the last time it was saved. Would you like to reload?"
+    "message": "文件已发生修改，是否重新载入?"
   },
   "dialogModifiedUnsaved": {
-    "message": "$1 has been modified.\nDo you want to save changes?"
+    "message": "$1 已被修改，是否确认保存?"
   },
   "dialogCancel": {
-    "message": "Cancel"
+    "message": "取消"
   },
   "dialogOK": {
-    "message": "OK"
+    "message": "确定"
   },
   "dialogReload": {
-    "message": "Reload"
+    "message": "刷新"
   },
   "dialogSave": {
-    "message": "Save"
+    "message": "保存"
   },
   "dialogDiscard": {
-    "message": "Discard"
+    "message": "丢弃"
   },
   "dialogUnsaved": {
-    "message": "$1 has unsaved work."
+    "message": "$1未保存."
   },
   "projectNoCurrentProject": {
-    "message": "No project currently open."
+    "message": "目前没有项目打开。"
   },
   "projectRemoveDirectory": {
     "message": "Remove from project"
   },
   "paletteExecuting": {
-    "message": "Executing $1..."
+    "message": "正在执行 $1..."
   },
   "fileLoaded": {
-    "message": "Loaded $1, $2 bytes"
+    "message": "正在读取 $1, $2 bytes"
   },
   "fileAutosaving": {
-    "message": "Executing autosave for all tabs..."
+    "message": "所有文件正在保存中.."
   },
   "editorWordCount": {
     "message": "$1 characters, $2 words, $3 lines"
   },
   "recordingMacro": {
-    "message": "Recording macro..."
+    "message": "宏录制中.."
   },
   "setSyntax": {
-    "message": "Set Syntax: $1"
+    "message": "设置语言: $1"
   },
   "setTheme": {
-    "message": "Set Theme: $1"
+    "message": "设置主题: $1"
   },
   "selectSyntax": {
     "message": "Select syntax"
