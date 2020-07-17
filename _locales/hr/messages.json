@@ -364,5 +364,8 @@
   },
   "tabRevealInSideBar": {
     "message": "Prikaži u bočnoj traci"
+  },
+  "tabRevealInSideBarTest": {
+    "message": "This string is added for test purposes"
   }
 }
