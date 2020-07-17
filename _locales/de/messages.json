@@ -364,5 +364,8 @@
   },
   "tabRevealInSideBar": {
     "message": "In der Seitenleiste anzeigen"
+  },
+  "tabRevealInSideBarTest": {
+    "message": "This string is added for test purposes"
   }
 }
