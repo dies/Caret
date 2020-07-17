@@ -364,5 +364,8 @@
   },
   "tabRevealInSideBar": {
     "message": "Reveal in side bar"
+  },
+  "tabRevealInSideBarTest": {
+    "message": "This string is added for test purposes"
   }
 }
