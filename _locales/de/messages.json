@@ -3,7 +3,7 @@
     "message": "Minimieren"
   },
   "maximize": {
-    "message": "Maximieren"
+    "message": "Maximieren abcd"
   },
   "close": {
     "message": "Schließen"
@@ -36,7 +36,7 @@
     "message": "Datei speichern"
   },
   "menuSaveAs": {
-    "message": "Datei speichern unter&hellip;"
+    "message": "Datei speichern unter&hellip; ..."
   },
   "menuSaveAll": {
     "message": "Alle Dateien speichern"
