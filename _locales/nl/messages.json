@@ -9,226 +9,226 @@
     "message": "Close"
   },
   "loading": {
-    "message": "carregando"
+    "message": "loading"
   },
   "aboutWrittenBy": {
-    "message": "Projeto por <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
+    "message": "Written by <a href=\"http://thomaswilburn.net\" target=_blank>Thomas Wilburn</a>"
   },
   "aboutHomePage": {
-    "message": "Página Inicial"
+    "message": "Home Page"
   },
   "aboutSupport": {
-    "message": "Suporte"
+    "message": "Support"
   },
   "aboutLicense": {
-    "message": "Caret está disponível sob o modelo de Licença GPL, isso significa que <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>o código-fonte</a> do software está disponível para você usar e modificar como desejar. Se você acha o Caret útil, considere fazer uma doação para o <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fundo Para Eliminar Patentesde Sofwtare</a>  da Fundação do Software Livre."
+    "message": "Caret is available under a GPL license, which means that the <a href=\"https://github.com/thomaswilburn/Caret\" target=_blank>source code</a> is freely available for you to use and modify as you see fit. If you find Caret useful, consider donating to the Free Software Foundation's <a href=\"http://endsoftwarepatents.org/donate\" target=_blank>Fund to End Software Patents</a>."
   },
   "menuFile": {
-    "message": "Arquivo"
+    "message": "File"
   },
   "menuNewFile": {
-    "message": "Novo Arquivo"
+    "message": "New File"
   },
   "menuOpenFile": {
-    "message": "Abrir Arquivo"
+    "message": "Open File"
   },
   "menuSave": {
-    "message": "Salvar Arquivo"
+    "message": "Save File"
   },
   "menuSaveAs": {
-    "message": "Salvar Arquivo Como..."
+    "message": "Save File As..."
   },
   "menuSaveAll": {
     "message": "Save All Files"
   },
   "menuRevert": {
-    "message": "Reverter"
+    "message": "Revert"
   },
   "menuClose": {
-    "message": "Fechar Arquivo"
+    "message": "Close File"
   },
   "menuPrint": {
-    "message": "Imprimir"
+    "message": "Print"
   },
   "menuExit": {
-    "message": "Sair"
+    "message": "Exit"
   },
   "menuEdit": {
-    "message": "Editar"
+    "message": "Edit"
   },
   "menuUndo": {
-    "message": "Desfazer"
+    "message": "Undo"
   },
   "menuRedo": {
-    "message": "Refazer"
+    "message": "Redo"
   },
   "menuInsertFromFile": {
-    "message": "Inserir de Arquivo"
+    "message": "Insert From File"
   },
   "menuSelectWord": {
-    "message": "Selecionar Palavra"
+    "message": "Select Word"
   },
   "menuSelectLine": {
-    "message": "Selecionar Linha"
+    "message": "Select Line"
   },
   "menuSelectP": {
-    "message": "Selecionar Parágrafo"
+    "message": "Select Paragraph"
   },
   "menuSelectToMatch": {
-    "message": "Selecionar Correspondentes"
+    "message": "Select to Matching"
   },
   "menuWrapToPrint": {
-    "message": "Quebrar Linha na Margem de Impressão"
+    "message": "Wrap to Print Margin"
   },
   "menuFind": {
-    "message": "Buscar"
+    "message": "Find"
   },
   "menuFindReplace": {
-    "message": "Buscar/Substituir"
+    "message": "Find/Replace"
   },
   "menuFindNext": {
-    "message": "Buscar Próximo"
+    "message": "Find Next"
   },
   "menuSearchProject": {
     "message": "Search All Files"
   },
   "menuToggleComment": {
-    "message": "Alternar Comentário"
+    "message": "Toggle Comment"
   },
   "menuBlockComment": {
-    "message": "Alternar Bloco de Comentário"
+    "message": "Toggle Block Comment"
   },
   "menuTabsToSpaces": {
-    "message": "Converter Tabs para Espaços"
+    "message": "Convert Tabs to Spaces"
   },
   "menuSpacesToTabs": {
-    "message": "Converter Espaços para Tabs"
+    "message": "Convert Spaces to Tabs"
   },
   "menuSetNewline": {
-    "message": "Escolher Modo de Nova Linha"
+    "message": "Set Newline Mode"
   },
   "menuTrimWhitespace": {
-    "message": "Excluir Espaços em Branco ao Fim da Linha"
+    "message": "Trim Trailing Whitespace"
   },
   "menuJoinLines": {
-    "message": "Juntar Linhas"
+    "message": "Join Lines"
   },
   "menuSortLines": {
-    "message": "Ordenar Linhas"
+    "message": "Sort Lines"
   },
   "menuSplitLine": {
-    "message": "Separar Linha"
+    "message": "Split Line"
   },
   "menuKillLine": {
-    "message": "Deletar Linha"
+    "message": "Kill Line"
   },
   "menuToUppercase": {
-    "message": "Maiúsculas"
+    "message": "To Uppercase"
   },
   "menuToLowercase": {
-    "message": "Minúsculas"
+    "message": "To Lowercase"
   },
   "menuMoveLinesUp": {
-    "message": "Mover Linhas Para Cima"
+    "message": "Move Lines Up"
   },
   "menuMoveLinesDown": {
-    "message": "Mover Linhas Para Baixo"
+    "message": "Move Lines Down"
   },
   "menuTools": {
-    "message": "Ferramentas"
+    "message": "Tools"
   },
   "menuGoToAnything": {
-    "message": "Ir Para..."
+    "message": "Go To..."
   },
   "menuGoToLine": {
-    "message": "Ir Para Linha"
+    "message": "Go to Line"
   },
   "menuGoToSearch": {
-    "message": "Ir Para Busca"
+    "message": "Go to Search"
   },
   "menuGoToRef": {
-    "message": "Ir Para Referência"
+    "message": "Go to Reference"
   },
   "menuCommandPalette": {
-    "message": "Abrir Paleta de Comandos"
+    "message": "Open Command Palette"
   },
   "menuToggleMacro": {
-    "message": "Alternar Gravação de Macro"
+    "message": "Toggle Macro Recording"
   },
   "menuReplayMacro": {
-    "message": "Reproduzir Macro"
+    "message": "Replay Macro"
   },
   "menuWordCount": {
-    "message": "Contagem de Palavras"
+    "message": "Word Count"
   },
   "menuProject": {
-    "message": "Projeto"
+    "message": "Project"
   },
   "menuAddDir": {
-    "message": "Adicionar Diretório"
+    "message": "Add Directory"
   },
   "menuRemoveAllDirs": {
-    "message": "Remover Todos Diretórios"
+    "message": "Remove All Directories"
   },
   "menuRefreshDir": {
-    "message": "Recarregar Diretórios"
+    "message": "Refresh Directories"
   },
   "menuSaveProject": {
-    "message": "Salvar Arquivo de Projeto"
+    "message": "Save Project File"
   },
   "menuEditProject": {
-    "message": "Editar Projeto Atual"
+    "message": "Edit Current Project"
   },
   "menuOpenProject": {
-    "message": "Abrir Arquivo de Projeto"
+    "message": "Open Project File"
   },
   "menuClearProject": {
-    "message": "Limpar Projeto"
+    "message": "Clear Project"
   },
   "menuSettings": {
-    "message": "Configurações"
+    "message": "Settings"
   },
   "menuUserPrefs": {
-    "message": "Preferências do Usuário"
+    "message": "User Preferences"
   },
   "menuKeyboard": {
-    "message": "Teclado"
+    "message": "Keyboard"
   },
   "menuMenus": {
     "message": "Menus"
   },
   "menuAPI": {
-    "message": "Comandos Externos"
+    "message": "External Commands"
   },
   "menuSequences": {
     "message": "Command Sequences"
   },
   "menuDefaults": {
-    "message": "Ver Padrões"
+    "message": "View Defaults"
   },
   "menuUserPrefsDefault": {
-    "message": "Preferências do Usuário (Padrão)"
+    "message": "User Preferences (Defaults)"
   },
   "menuKeyboardDefault": {
-    "message": "Teclado (Padrão)"
+    "message": "Keyboard (Defaults)"
   },
   "menuMenusDefault": {
-    "message": "Menus (Padrão)"
+    "message": "Menus (Defaults)"
   },
   "menuSequencesDefault": {
     "message": "Command Sequences (Defaults)"
   },
   "menuReset": {
-    "message": "Restaurar"
+    "message": "Reset"
   },
   "menuResetUserPrefs": {
-    "message": "Restaurar Preferências do Usuário"
+    "message": "Reset User Preferences"
   },
   "menuResetKeyboard": {
-    "message": "Restaurar Teclado"
+    "message": "Reset Keyboard"
   },
   "menuResetMenus": {
-    "message": "Restaurar Menus"
+    "message": "Reset Menus"
   },
   "menuResetSequences": {
     "message": "Reset Command Sequences"
@@ -237,64 +237,64 @@
     "message": "Emergency Reset"
   },
   "menuHelp": {
-    "message": "Ajuda"
+    "message": "Help"
   },
   "menuCheckForUpdates": {
-    "message": "Verificar Atualizações"
+    "message": "Check for Updates"
   },
   "menuAboutCaret": {
-    "message": "Sobre Caret"
+    "message": "About Caret"
   },
   "dialogModifiedBackground": {
-    "message": "Esse arquivo foi alterado desde a última vez que foi salvo. Deseja recarregar?"
+    "message": "This file has been modified since the last time it was saved. Would you like to reload?"
   },
   "dialogModifiedUnsaved": {
-    "message": "$1 foi modificado.\nDeseja salvar as alterações?"
+    "message": "$1 has been modified.\nDo you want to save changes?"
   },
   "dialogCancel": {
-    "message": "Cancelar"
+    "message": "Cancel"
   },
   "dialogOK": {
     "message": "OK"
   },
   "dialogReload": {
-    "message": "Recarregar"
+    "message": "Reload"
   },
   "dialogSave": {
-    "message": "Salvar"
+    "message": "Save"
   },
   "dialogDiscard": {
-    "message": "Descartar"
+    "message": "Discard"
   },
   "dialogUnsaved": {
-    "message": "$1 tem alterações não salvas."
+    "message": "$1 has unsaved work."
   },
   "projectNoCurrentProject": {
-    "message": "Nenhum projeto aberto atualmente."
+    "message": "No project currently open."
   },
   "projectRemoveDirectory": {
     "message": "Remove from project"
   },
   "paletteExecuting": {
-    "message": "Executando $1..."
+    "message": "Executing $1..."
   },
   "fileLoaded": {
-    "message": "Carregado $1, $2 bytes"
+    "message": "Loaded $1, $2 bytes"
   },
   "fileAutosaving": {
-    "message": "Executando salvar automático para todas as abas..."
+    "message": "Executing autosave for all tabs..."
   },
   "editorWordCount": {
-    "message": "$1 caracteres, $2 palavras, $3 linhas"
+    "message": "$1 characters, $2 words, $3 lines"
   },
   "recordingMacro": {
-    "message": "Gravando macro..."
+    "message": "Recording macro..."
   },
   "setSyntax": {
-    "message": "Escolher Sintaxe: $1"
+    "message": "Set Syntax: $1"
   },
   "setTheme": {
-    "message": "Escolher Tema: $1"
+    "message": "Set Theme: $1"
   },
   "selectSyntax": {
     "message": "Select syntax"
